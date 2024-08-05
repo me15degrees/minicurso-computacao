@@ -21,5 +21,6 @@ def main():
     assert decimal_to_binary(10) == "1010"
     assert decimal_to_binary(15) == "1111"
     print("All tests passed!")
+    print(decimal_to_binary(5249))
 
 main()
